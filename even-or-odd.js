@@ -10,3 +10,5 @@ function isEven(value) {
         return false;
     }
 }
+
+//0(1) - no matter what the input is, the function will only run once; taking the same time to complete, each time.
